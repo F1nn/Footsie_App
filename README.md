@@ -20,7 +20,12 @@ This app connects to the Footsie ESP32 firmware, lets you tune gamma response, d
 	- Output scaling range (`min mV`, `max mV`)
 - Shows a live throttle curve preview and in-app log output.
 
-## Screenshots
+## Images
+
+<a href="images/Footsie_PCB_Back.png"><img src="images/Footsie_PCB_Back.png" width="300" alt="Footsie PCB Back"></a>
+<a href="images/Footsie_PCB_Front.png"><img src="images/Footsie_PCB_Front.png" width="300" alt="Footsie PCB Front"></a>
+
+## App Screenshots
 
 <a href="images/Footsie_App.jpg"><img src="images/Footsie_App.jpg" width="300" alt="Footsie App"></a>
 <a href="images/Footsie_ADC_Calibration.jpg"><img src="images/Footsie_ADC_Calibration.jpg" width="300" alt="Footsie ADC Calibration"></a>
