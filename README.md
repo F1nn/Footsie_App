@@ -20,6 +20,12 @@ This app connects to the Footsie ESP32 firmware, lets you tune gamma response, d
 	- Output scaling range (`min mV`, `max mV`)
 - Shows a live throttle curve preview and in-app log output.
 
+## Screenshots
+
+![Footsie App](images/Footsie_App.jpg)
+
+![Footsie ADC Calibration](images/Footsie_ADC_Calibration.jpg)
+
 ## BLE Protocol (Current App Expectations)
 
 - Service UUID: `501e5b9c-764b-4b18-9d87-796d00008c4a`
