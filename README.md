@@ -22,9 +22,8 @@ This app connects to the Footsie ESP32 firmware, lets you tune gamma response, d
 
 ## Screenshots
 
-[![Footsie App](images/Footsie_App.jpg)](images/Footsie_App.jpg)
-
-[![Footsie ADC Calibration](images/Footsie_ADC_Calibration.jpg)](images/Footsie_ADC_Calibration.jpg)
+<a href="images/Footsie_App.jpg"><img src="images/Footsie_App.jpg" width="300" alt="Footsie App"></a>
+<a href="images/Footsie_ADC_Calibration.jpg"><img src="images/Footsie_ADC_Calibration.jpg" width="300" alt="Footsie ADC Calibration"></a>
 
 ## BLE Protocol (Current App Expectations)
 
